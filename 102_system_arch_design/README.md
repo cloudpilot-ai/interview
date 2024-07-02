@@ -7,7 +7,7 @@ Evaluation aspects:
 
 ## Background
 
-Our system architecture is illustrated as follows:
+Our rough system architecture is illustrated as follows:
 
 ![Architecture Diagram](./img/arch.png)
 
