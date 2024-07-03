@@ -4,7 +4,6 @@ Please open your mind. In the AI world today, every company uses GPUs for traini
 
 Alternatively, are there other areas in the public cloud(K8s) that could be optimized?
 
-
 Evaluation aspects:
 - Imagination and the ability to integrate online resources with your own thinking to design new things
 

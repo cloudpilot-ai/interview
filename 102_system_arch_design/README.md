@@ -19,6 +19,11 @@ I want you to outline a rough design document for the system that ensures high a
 
 > Hint: This can be implemented using Kubernetes (K8s) technologies, such as HPA. But for different components, we need use different technologies.
 
+Notes:
+> 1. You don't need to think about the database.
+> 2. For one customer's custer, only one agent is installed, it will scrap metrics from the customer's custer's kube-apiserver.
+> 3. Focus on architecture design, not specific implementation.
+
 ## Output
 
 - A rough design document (English)
