@@ -26,7 +26,7 @@ In whiteboard live coding, both the problem and solution are already pre-determi
 
 # Why we open source
 
-1. The [main CloudPilot AI codebase](https://github.com/cloudpilot-a) is also open source. We believe in building in the public.
+1. The [main CloudPilot AI codebase](https://github.com/cloudpilot-ai) is also open source. We believe in building in the public.
 1. Design good take-home assignments is no easy task. Open sourcing our assignments gives more chance for improvements.
 1. It's convenient for our candidate to checkout the problem.
 
