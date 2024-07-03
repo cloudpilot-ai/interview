@@ -22,11 +22,11 @@ One would argue that's the trait separating the best from the good. Probably tru
 
 Most problems do have a defined domain, but there remains many uncertainties, and some of those revealation may totally change the scope. We do have a deadline, but at least it's in days instead of in minutes. And more importantly, we are solving together with the open web, the people around us.
 
-In whiteboard live coding, both the problem and solution are already pre-determinted. While in take-home assignment, we only define a broad scope and some requirements, it's up to the candidate to craft the solution. That's what we expect for peers at Bytebase, to de/refine the problem, own the solution, deliver enlightenment.
+In whiteboard live coding, both the problem and solution are already pre-determinted. While in take-home assignment, we only define a broad scope and some requirements, it's up to the candidate to craft the solution. That's what we expect for peers at CloudPilot AI, to de/refine the problem, own the solution, deliver enlightenment.
 
 # Why we open source
 
-1. The [main CloudPilot AI codebase](https://github.com/kubernetes-sigs/karpenter) is also open source. We believe in building in the public.
+1. The [main CloudPilot AI codebase](https://github.com/cloudpilot-a) is also open source. We believe in building in the public.
 1. Design good take-home assignments is no easy task. Open sourcing our assignments gives more chance for improvements.
 1. It's convenient for our candidate to checkout the problem.
 
