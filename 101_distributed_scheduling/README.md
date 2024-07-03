@@ -13,7 +13,7 @@ In all cloud providers, like AWS, Google, and others, there are many spot instan
 
 So I want you to design a way to maximize the use of spot instances without service interruption, to cut costs, by distributed scheduling(on-demand/spot mixed or other ways for one workload). Because all spot instances being terminated at the same time could cause interruptions for different kinds of workloads (single replica workload, multiple replica workload).
 
-Also, I want ydon't want to change the scheduler of the K8s cluster and want to ensure the minimal components necessary in the cluster.
+Also, I don't want to change the scheduler of the K8s cluster and want to ensure the minimal components necessary in the cluster.
 
 Notes:
 > 1. On demand nodes has label: node.kubernetes.io/capacity: on-demand.
