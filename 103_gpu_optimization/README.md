@@ -2,7 +2,7 @@
 
 Please open your mind. In the AI world today, every company uses GPUs for training and inference. Is there anything we can do to reduce the cost of GPUs for training and inference?
 
-Alternatively, are there other areas in the public cloud that could be optimized?
+Alternatively, are there other areas in the public cloud(K8s) that could be optimized?
 
 
 Evaluation aspects:
