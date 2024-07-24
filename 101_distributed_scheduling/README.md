@@ -1,6 +1,6 @@
 # Distributed Scheduling
 
-Please write a design document about distributed scheduling and impeachment it.
+Please write a design document about distributed scheduling and implementation of it.
 
 Evaluation aspects:
 - Learning ability
