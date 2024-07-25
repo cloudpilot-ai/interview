@@ -21,7 +21,7 @@ I want you to outline a rough design document for the system that ensures high a
 
 Notes:
 > 1. You don't need to think about the database.
-> 2. For one customer's cluster, only one agent is installed, it will scrap metrics from the customer's custer's kube-apiserver.
+> 2. For one customer's cluster, only one agent is installed, it will scrap metrics from the customer's cluster's kube-apiserver.
 > 3. Focus on architecture design, not specific implementation.
 
 ## Output
