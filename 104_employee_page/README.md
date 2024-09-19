@@ -19,7 +19,7 @@ The requirements are intentionally simple and vague, please think a bit further 
 
 The tech stuch should be TypeScript, React and Tailwind CSS since that's the one you will work with after join. So you may try to get a sense beforehand.
 
-1. Frontend - TypeScript, Reac, Tailwind CSS.
+1. Frontend - TypeScript, React, Tailwind CSS.
 2. Backend - Go if you have pure backend background. If you have more frontend background, node is perfectly fine. It's also totally fine if your solution doesn't involve backend at all.
 
 ### Features
